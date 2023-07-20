@@ -1,0 +1,10 @@
+
+.nav-link {
+    color: black;
+  }
+  .icon-text-gap {
+    margin-left: 8px; /* Adjust the value as needed for the desired gap */
+  }
+  .custom-bg-color {
+    background-color: #c2c6ca; /* Replace with the color code of your choice */
+  }
