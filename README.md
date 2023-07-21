@@ -4,6 +4,7 @@ This project is completely built using react and bootstrap framework. And it is 
 ## Technologies used :
 
 Reactjs, Axios, Bootstrap, font-awesome icons, Newsapi.org, etc
+NewsAPI used in this project : [https://newsapi.org/](https://newsapi.org/)
 ## Available Scripts
 
 In the project directory, you can run:
