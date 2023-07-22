@@ -1,6 +1,6 @@
 # 📰News web-application built using REACTjs
 
-This project is completely built using react and bootstrap framework. And it is completely mobile and pc responsive. Responsive design make a user free to surf to this entire web application...😊😊
+This project is completely built using react,newsAPI and bootstrap framework with 🌞light and 🌙dark theme. And it is completely mobile and pc responsive. Responsive design make a user free to surf to this entire web application...😊😊
 ## Technologies used :
 
 Reactjs, Axios, Bootstrap, font-awesome icons, Newsapi.org, etc | 
